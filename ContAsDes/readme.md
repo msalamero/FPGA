@@ -1,1 +1,25 @@
 
+
+NET "Enable[0]" LOC = P34;
+NET "Enable[1]" LOC = P33;
+NET "Enable[2]" LOC = P32;
+NET "salida[0]" LOC = P25;
+NET "salida[1]" LOC = P16;
+NET "salida[2]" LOC = P23;
+NET "salida[3]" LOC = P21;
+NET "salida[4]" LOC = P20;
+NET "salida[5]" LOC = P17;
+NET "salida[6]" LOC = P83;
+NET "salida[7]" LOC = P15;
+
+
+NET "sw1" LOC = P6;
+NET "reloj" LOC = P54;
+
+
+NET "Enable[3]" LOC = P26;
+
+# PlanAhead Generated physical constraints 
+
+NET "sw2" LOC = P10;
+
